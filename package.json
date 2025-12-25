@@ -1,0 +1,11 @@
+{
+  "name": "git-practice",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node node_modules/live-server/live-server.js app/public"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
